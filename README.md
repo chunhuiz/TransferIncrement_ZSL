@@ -1,5 +1,5 @@
 # TransferIncrement_ZSL
-Source code of Transfer Increment for Generalized Zero-Shot Learning In TNNLS 2021
+Source code of Transfer Increment for Generalized Zero-Shot Learning In TNNLS 2021      
 The details of model can be found in    
  [L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9140375)
 
