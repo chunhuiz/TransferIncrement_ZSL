@@ -14,22 +14,22 @@ pip3 install cvxpy
 python3 AWA2_PA.py    
 
 #### Results Example:  
-============================Experiment: Ours+IOM+Res.============================
-(24270, 2048) (24270,) (24270, 85). 
-(6985, 2048) (6985,) (6985, 85). 
-(6067, 2048) (6067,) (6067, 85). 
-Base training for 85 attribute classifiers begin...  
-10 th classifier is training. 
-20 th classifier is training. 
-30 th classifier is training. 
-40 th classifier is training. 
-50 th classifier is training. 
-60 th classifier is training. 
-70 th classifier is training. 
-80 th classifier is training. 
-85 th classifier is training. 
-Base training for 85 attribute classifiers is over！  
-Incremental training begin...  
+============================Experiment: Ours+IOM+Res.============================       
+(24270, 2048) (24270,) (24270, 85).   
+(6985, 2048) (6985,) (6985, 85).   
+(6067, 2048) (6067,) (6067, 85).   
+Base training for 85 attribute classifiers begin...    
+10 th classifier is training.   
+20 th classifier is training.   
+30 th classifier is training.   
+40 th classifier is training.   
+50 th classifier is training.   
+60 th classifier is training.   
+70 th classifier is training.   
+80 th classifier is training.   
+85 th classifier is training.   
+Base training for 85 attribute classifiers is over！      
+Incremental training begin...    
 Incremental samples are 1, S is 0.8757, U is 0.1907, H is 0.3132, training time is 10.897.   
 Incremental samples are 3, S is 0.8698, U is 0.2261, H is 0.3588, training time is 10.6462.   
 Incremental samples are 5, S is 0.8584, U is 0.3173, H is 0.4633, training time is 10.3452.   
