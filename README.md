@@ -1,7 +1,7 @@
 # TransferIncrement_ZSL
 Source code of Transfer Increment for Generalized Zero-Shot Learning In TNNLS 2021      
 The details of model can be found in    
- [L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9140375)
+ [L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 17(3), 1852 - 1862, 2021.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9140375)
 
 
 #### Download the Dataset:
@@ -61,5 +61,5 @@ Incremental samples are 55, S is 0.6438, U is 0.6474, H is 0.6456, training time
 Incremental samples are 60, S is 0.6572, U is 0.674, H is 0.6655, training time is 13.9888.   
 
 #### All rights reserved, citing the following papers are required for reference:
-[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, TII, 2021.  
-[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 2021.  
+[1] L. J. Feng, et al. Fault Description Based Attribute Transfer for Zero-Sample Industrial Fault Diagnosis, TII, 17(3), 1852 - 1862, 2021.  
+[2] L. J. Feng, et al. Transfer Increment for Generalized Zero-Shot Learning, TNNLS, 32(6), 2506 - 2520, 2021.  
